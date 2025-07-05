@@ -1,4 +1,4 @@
-# TokenWise Backend
+# TokenWise — Real-Time Wallet Intelligence
 
 TokenWise is a real-time intelligence tool built on the Solana blockchain to track top token holders and monitor their transaction activity.
 
